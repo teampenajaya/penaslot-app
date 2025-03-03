@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@tailwindcss/vite": "^4.0.9",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^3.0.1",
